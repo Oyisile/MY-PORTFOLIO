@@ -60,6 +60,10 @@ font-size: 18px;
 .profile-picture {
     border-radius: 50%;
 }
+.navi-links-items {
+   color: var(--branding-color);
+ }
+
 @media (max-width: 900px) {
     .hero {
         padding: 80px 20px;
