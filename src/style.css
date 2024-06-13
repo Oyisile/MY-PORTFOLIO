@@ -64,6 +64,9 @@ font-size: 18px;
     border-radius: 50%;
     margin-top: 60px;
 }
+ .skills-icon {
+    margin: 10px;
+}
 .navi-links-items {
    color: var(--branding-color);
  }
